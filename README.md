@@ -5,7 +5,7 @@ Assign value to a string based on the string variable's name. This is a util for
 
 Instead of doing this  
 
-```
+```chsarp
 public class OrderStatus
 {
   public static readonly string Created = nameof(Created);
@@ -16,7 +16,7 @@ public class OrderStatus
 
 You can do this
 
-```
+```csharp
 public class OrderStatus
 {
   public static readonly string Created = new Inferred();
