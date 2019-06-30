@@ -1,5 +1,5 @@
 # Inferred
-Assign value to a string based on the string variable's name. This is a util for the truly lazy ones - which means pretty much everyone.
+Assign value to a string based on the string variable's name.
 
 ### Examples
 
